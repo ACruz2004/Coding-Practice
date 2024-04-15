@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "45719B00-8ECC-45AA-951B-622EDAA322A4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CF6A73EE-8130-4232-BE87-B8A5ED9B6E5C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab11_CharliesCollectionClasses/Collection.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "155"
+            endingLineNumber = "155"
+            landmarkName = "Collection::value()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CF6A73EE-8130-4232-BE87-B8A5ED9B6E5C - b444ab8b4d36c97f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "CF6A73EE-8130-4232-BE87-B8A5ED9B6E5C - b444ab8b4d36c97f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70EF76E2-64A9-4DE9-A53F-C1998A5FF849"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab11_CharliesCollectionClasses/Collection.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "157"
+            endingLineNumber = "157"
+            landmarkName = "Collection::value()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "70EF76E2-64A9-4DE9-A53F-C1998A5FF849 - b444ab8b4d36c939"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "70EF76E2-64A9-4DE9-A53F-C1998A5FF849 - b444ab8b4d36c939"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CAA5EDDD-F8E8-4ADC-A7B9-171029E540AB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab11_CharliesCollectionClasses/Collection.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "156"
+            endingLineNumber = "156"
+            landmarkName = "Collection::value()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CAA5EDDD-F8E8-4ADC-A7B9-171029E540AB - b444ab8b4d36c97f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "CAA5EDDD-F8E8-4ADC-A7B9-171029E540AB - b444ab8b4d36c97f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "150"
+                  endingLineNumber = "150"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A22D19D6-75E0-4422-BA32-E125F2B7CB03"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab11_CharliesCollectionClasses/Collection.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "158"
+            endingLineNumber = "158"
+            landmarkName = "Collection::value()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A22D19D6-75E0-4422-BA32-E125F2B7CB03 - b444ab8b4d36c939"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "A22D19D6-75E0-4422-BA32-E125F2B7CB03 - b444ab8b4d36c939"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "152"
+                  endingLineNumber = "152"
+                  offsetFromSymbolStart = "32">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA4B09D3-5872-4F7A-B659-EF86F10B2916"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab11_CharliesCollectionClasses/Collection.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160"
+            landmarkName = "Collection::value()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BA4B09D3-5872-4F7A-B659-EF86F10B2916 - b444ab8b4d36c8fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "100">
+               </Location>
+               <Location
+                  uuid = "BA4B09D3-5872-4F7A-B659-EF86F10B2916 - b444ab8b4d36c8fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "BA4B09D3-5872-4F7A-B659-EF86F10B2916 - b444ab8b4d36c8fb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "154"
+                  endingLineNumber = "154"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "27BBD187-5BA2-4062-961F-F37F87DA586E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab11_CharliesCollectionClasses/Collection.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "159"
+            endingLineNumber = "159"
+            landmarkName = "Collection::value()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "27BBD187-5BA2-4062-961F-F37F87DA586E - b444ab8b4d36c918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "27BBD187-5BA2-4062-961F-F37F87DA586E - b444ab8b4d36c918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "27BBD187-5BA2-4062-961F-F37F87DA586E - b444ab8b4d36c918"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Collection::value()"
+                  moduleName = "Lab11_CharliesCollectionClasses"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab11_CollectionTest/Lab11_CharliesCollectionClasses/Lab11_CharliesCollectionClasses/Collection.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "153"
+                  endingLineNumber = "153"
+                  offsetFromSymbolStart = "72">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
