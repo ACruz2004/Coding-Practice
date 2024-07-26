@@ -1,0 +1,866 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3C5F14EA-FFE2-41E0-AAF9-1B7994EE7535"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "86F8C2A3-0F92-4FE6-927B-E8D81DF22C98"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "86F8C2A3-0F92-4FE6-927B-E8D81DF22C98 - 83484414c7aa36e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "42"
+                  endingLineNumber = "42"
+                  offsetFromSymbolStart = "104">
+               </Location>
+               <Location
+                  uuid = "86F8C2A3-0F92-4FE6-927B-E8D81DF22C98 - 83484414c7aa36a2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "84">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7FA5F59A-2E9B-4CA8-840B-729B6043EEBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "7FA5F59A-2E9B-4CA8-840B-729B6043EEBD - 83484414c7aa3726"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "124">
+               </Location>
+               <Location
+                  uuid = "7FA5F59A-2E9B-4CA8-840B-729B6043EEBD - 83484414c7aa36c1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "43"
+                  endingLineNumber = "43"
+                  offsetFromSymbolStart = "104">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A7E857F0-0606-4066-ACF9-FD5D2B0FBF4C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "A7E857F0-0606-4066-ACF9-FD5D2B0FBF4C - 83484414c7aa3764"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "46"
+                  endingLineNumber = "46"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "A7E857F0-0606-4066-ACF9-FD5D2B0FBF4C - 83484414c7aa3707"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "124">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "63D2C7E9-6B91-421C-97C9-A447A121DCEA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "puncspread(inp, max, min)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "63D2C7E9-6B91-421C-97C9-A447A121DCEA - 8a8bcb0ac861c31b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "51"
+                  endingLineNumber = "51"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "63D2C7E9-6B91-421C-97C9-A447A121DCEA - 8a8bcb0ac861c0fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2FA2FE8C-69B0-4DE9-B145-0CD699018D80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "puncspread(inp, max, min)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "2FA2FE8C-69B0-4DE9-B145-0CD699018D80 - 8a8bcb0ac861c0fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "2FA2FE8C-69B0-4DE9-B145-0CD699018D80 - 8a8bcb0ac861c0fc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "2FA2FE8C-69B0-4DE9-B145-0CD699018D80 - 8a8bcb0ac861c1e3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DD573F5D-6620-4145-AA13-CD340A16CE43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "puncspread(inp, max, min)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "DD573F5D-6620-4145-AA13-CD340A16CE43 - 8a8bcb0ac861c09f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "DD573F5D-6620-4145-AA13-CD340A16CE43 - 8a8bcb0ac861c09f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "DD573F5D-6620-4145-AA13-CD340A16CE43 - 8a8bcb0ac861c186"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "62"
+                  endingLineNumber = "62"
+                  offsetFromSymbolStart = "108">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "937D17DA-E505-4492-853C-0C151D8DB40A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "64"
+            endingLineNumber = "64"
+            landmarkName = "puncspread(inp, max, min)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "937D17DA-E505-4492-853C-0C151D8DB40A - 8a8bcb0ac861c148"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "172">
+               </Location>
+               <Location
+                  uuid = "937D17DA-E505-4492-853C-0C151D8DB40A - 8a8bcb0ac861c148"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "937D17DA-E505-4492-853C-0C151D8DB40A - 8a8bcb0ac861c148"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "164">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ADA76C1F-3D41-49F1-8B04-665266CC81D2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "randspread(inp, max, min)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "ADA76C1F-3D41-49F1-8B04-665266CC81D2 - 1c28ca7267aa0184"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "77"
+                  endingLineNumber = "77"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "ADA76C1F-3D41-49F1-8B04-665266CC81D2 - 1c28ca7267aa01a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6993FDF8-2B92-4C6B-AD1A-A6FB58B8DD0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "78"
+            endingLineNumber = "78"
+            landmarkName = "randspread(inp, max, min)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "6993FDF8-2B92-4C6B-AD1A-A6FB58B8DD0A - 1c28ca7267aa01a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6993FDF8-2B92-4C6B-AD1A-A6FB58B8DD0A - 1c28ca7267aa01a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "78"
+                  endingLineNumber = "78"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C7047F16-A25F-4420-BE00-BFF79D86FB7C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "81"
+            endingLineNumber = "81"
+            landmarkName = "randspread(inp, max, min)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "187D04D7-FE6E-4A94-9320-E09B78869BC4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "79"
+            endingLineNumber = "79"
+            landmarkName = "randspread(inp, max, min)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "187D04D7-FE6E-4A94-9320-E09B78869BC4 - 1c28ca7267aa0146"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "187D04D7-FE6E-4A94-9320-E09B78869BC4 - 1c28ca7267aa0146"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "187D04D7-FE6E-4A94-9320-E09B78869BC4 - 1c28ca7267aa0146"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "79"
+                  endingLineNumber = "79"
+                  offsetFromSymbolStart = "60">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9972FBAA-51FD-4E00-869E-6B2E5F5BD5C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "9972FBAA-51FD-4E00-869E-6B2E5F5BD5C5 - 83484414c7aa31f8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "9972FBAA-51FD-4E00-869E-6B2E5F5BD5C5 - 83484414c7aa31ba"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "44">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C14F1037-59AB-4863-A8E4-13A582A0F082"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "C14F1037-59AB-4863-A8E4-13A582A0F082 - 83484414c7aa365d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "C14F1037-59AB-4863-A8E4-13A582A0F082 - 83484414c7aa31d9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "32E512C6-5AAB-4672-B455-5C42E8CAEEF1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "main()"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "32E512C6-5AAB-4672-B455-5C42E8CAEEF1 - 83484414c7aa3155"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "32E512C6-5AAB-4672-B455-5C42E8CAEEF1 - 83484414c7aa3117"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "28">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "128D7B37-A2D5-4667-AD3B-D77A36000DAA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "82"
+            endingLineNumber = "82"
+            landmarkName = "randspread(inp, max, min)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8B9651B4-1545-49F8-8ADB-92785C8EF765"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "randspread(inp, max, min)"
+            landmarkType = "9">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1EEB60B5-1ADB-43CC-BC5F-E0497BA651C1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "80"
+            endingLineNumber = "80"
+            landmarkName = "randspread(inp, max, min)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "1EEB60B5-1ADB-43CC-BC5F-E0497BA651C1 - 1c28ca7267aa0169"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "152">
+               </Location>
+               <Location
+                  uuid = "1EEB60B5-1ADB-43CC-BC5F-E0497BA651C1 - 1c28ca7267aa0169"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "96">
+               </Location>
+               <Location
+                  uuid = "1EEB60B5-1ADB-43CC-BC5F-E0497BA651C1 - 1c28ca7267aa0169"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "randspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "80"
+                  endingLineNumber = "80"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "085915F5-5419-470C-9100-512D209D9CEF"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Lab7_LIneJustify/main.cpp"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "puncspread(inp, max, min)"
+            landmarkType = "9">
+            <Locations>
+               <Location
+                  uuid = "085915F5-5419-470C-9100-512D209D9CEF - 8a8bcb0ac861cecc"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "68"
+                  endingLineNumber = "68"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "085915F5-5419-470C-9100-512D209D9CEF - 8a8bcb0ac861cead"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "196">
+               </Location>
+               <Location
+                  uuid = "085915F5-5419-470C-9100-512D209D9CEF - 8a8bcb0ac861cead"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "puncspread(std::__1::basic_string&lt;char, std::__1::char_traits&lt;char&gt;, std::__1::allocator&lt;char&gt;&gt;&amp;, int, int)"
+                  moduleName = "Lab7_LIneJustify"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/anthonycruz/Desktop/Coding/Lab7_Justify/Lab7_LIneJustify/Lab7_LIneJustify/main.cpp"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
